@@ -22,14 +22,14 @@ Users can input recipient type, subject, date, background, tone, and style — t
 - **Ollama (Llama 3.2 model)**
 
 ## Setup
-git clone https://github.com/yourusername/email-generator.git
-cd email-generator
-python -m venv venv
-venv\Scripts\activate   # On Windows
-pip install -r requirements.txt
-ollama pull llama3.2:latest
-python app.py
-streamlit run streamlit_app.py
+- git clone https://github.com/hareem2806/Smart-Email-Generator-App.git
+- cd email-generator
+- python -m venv venv
+- venv\Scripts\activate   # On Windows
+- pip install -r requirements.txt
+- ollama pull llama3.2:latest
+- python app.py
+- streamlit run streamlit_app.py
 
 
 
